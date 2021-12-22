@@ -1,0 +1,11 @@
+.App {
+  margin: 80px 80px 80px 80px;
+  text-align: center;
+}
+.App p{
+  border: 1px solid springgreen;
+  margin: 50px 0px 0px 0px;
+  padding: 50px 0px 50px 0px;
+  background-color: springgreen;
+  box-shadow: 2px 2px 8px gray;
+}
