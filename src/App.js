@@ -14,6 +14,7 @@ function App() {
   const [limit, setLimit] = useState(10);
   const [hasmore, setHasmore] = useState(true);
   useEffect(() => {
+
     // Getting data from fake API
 
     // This api call is for getting the length of all the data which I am calling and saving it on state when the page is load.
